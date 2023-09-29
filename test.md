@@ -18,3 +18,23 @@ git commit ~~-m “message”~~ – создание коммита.
  [Скачать VSCode](https://code.visualstudio.com/Download) для Windows, MAC, Linux
 
  [Справочник по Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference) от Microsoft
+
+
+# Дополнительные функции
+
+> Два варианта сохранения изменений:
+* git commit -a -m "Комментарий"
+*   1. git add <file>
+    2. git commit -m  "Комментарий"
+
+# Таблица
+
+| Fun                  | With                 | Tables          |
+| :------------------- | -------------------: |:---------------:|
+| left-aligned column  | right-aligned column | centered column |
+| $100                 | $100                 | $100            |
+| $10                  | $10                  | $10             |
+| $1                   | $1                   | $1              |
+
+
+
