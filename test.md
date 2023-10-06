@@ -42,3 +42,4 @@ git commit ~~-m “message”~~ – создание коммита.
 
 > git branch - список веток в репозитории
 > git log --graph - граф ветвей
+> git log --oneline - кооткий журнал
